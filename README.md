@@ -1,1 +1,3 @@
-# react-piano
+# React Piano
+
+Rebuilding my virtual piano in React.
